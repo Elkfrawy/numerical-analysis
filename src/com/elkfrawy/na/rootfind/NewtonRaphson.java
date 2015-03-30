@@ -1,3 +1,5 @@
+package com.elkfrawy.na.rootfind;
+
 import java.util.Scanner;
 
 /**
